@@ -24,6 +24,9 @@ An experiment to convert data from one format to another using OpenAI and XProc.
 
 **Please note:** This is only an experiment and is not intended for production use.
 
+## Learnings
+
+on [Mastodon](https://mastodon.social/@rolanddreger/111772817903365478)
 
 ## ToDo's
 
