@@ -27,7 +27,7 @@
     <p:variable name="output-file-format" select="'json'"/>
     
     <p:variable name="base-uri" select="'https://api.openai.com/v1'"/>
-    <p:variable name="assistant-id" select="'your-assistant-id'"/>
+    <p:variable name="assistant-id" select="'MY-ASSISTANT-ID'"/>
     
     <!-- Create an assistant at platform.openai.com/assistants -->
     
