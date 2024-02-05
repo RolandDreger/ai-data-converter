@@ -9,7 +9,7 @@
     version="3.0">
     
     <!-- Global Options -->
-    <p:option name="api-key" as="xs:string" select="'your-api-key'" static="true" visibility="private" />
+    <p:option name="api-key" as="xs:string" select="'MY-OPENAI-API-KEY'" static="true" visibility="private" />
     
     <!-- Step: Build empty JSON map for http request body -->
     <p:declare-step type="rd:build-empty-request-body">
